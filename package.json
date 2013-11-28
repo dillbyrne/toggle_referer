@@ -5,8 +5,8 @@
   "description": "This addon allows a user to toggle referers between 3 states:\nReferer 0: Never send the Referer header or set document.referrer\nReferer 1: Send the Referer header when clicking on a link, and set document.referrer for the following page\nReferer 2: Send the Referer header when clicking on a link or loading an image, and set document.referrer for the following page. (Default)",
   "author": "dbyrne",
   "license": "GPL v3",
-  "icon":"data/icon.png",
-  "icon64":"data/icon64.png",
+  "icon":"data/images/icon.png",
+  "icon64":"data/images/icon64.png",
   "version": "0.3"
 }
 
