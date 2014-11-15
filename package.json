@@ -6,9 +6,10 @@
   "author": "dbyrne",
   "license": "GPL v3",
   "permissions": {"private-browsing": true},
-  "icon":"data/images/icon.png",
-  "icon64":"data/images/icon64.png",
-  "version": "0.8"
+  "icon":"data/images/icon48.png",
+  "homepage":"https://github.com/dillbyrne/toggle_referer",
+  "icon64":"data/images/state264.png",
+  "version": "0.9"
 }
 
 
