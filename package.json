@@ -1,7 +1,7 @@
 {
   "name": "toggle_referer",
   "title": "Toggle Referer",
-  "id": "jid1-YvCVXxA75Ob1eQi@jetpack",
+  "id": "jid1-YvCVXxA75Ob1eQ@jetpack",
   "description": "This addon allows a user to toggle referers between 3 states:\nReferer 0: Never send the Referer header or set document.referrer\nReferer 1: Send the Referer header when clicking on a link, and set document.referrer for the following page\nReferer 2: Send the Referer header when clicking on a link or loading an image, and set document.referrer for the following page. (Default)",
   "author": "dbyrne",
   "license": "GPL v3",
@@ -9,7 +9,7 @@
   "icon":"data/images/icon48.png",
   "homepage":"https://github.com/dillbyrne/toggle_referer",
   "icon64":"data/images/state264.png",
-  "version": "1.0",
+  "version": "1.1",
   "main":"lib/main.js"
 }
 
