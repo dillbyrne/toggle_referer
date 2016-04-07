@@ -29,7 +29,7 @@ and set document.referrer for the following page. (Default) (green icon)
 
 * A quick toggle mode is available using the right mouse button on the toolbar icon.
 
-* A contenxt menu entry can also be used to select the referer setting.
+* A context menu entry can also be used to select the referer setting.
 
 
 # Icons #
