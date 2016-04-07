@@ -1,26 +1,36 @@
 # Toggle Referer #
 
 
-This firefox addon allows a user to toggle the browser's referer header between 3 states:
+A firefox addon that allows users to toggle the browser's referer header setting between 3 states.
 
-Referer 0: Never send the Referer header or set document.referrer
+# Screenshots
 
-Referer 1: Send the Referer header when clicking on a link, and set
-document.referrer for the following page
 
-Referer 2: Send the Referer header when clicking on a link or loading an image,
-and set document.referrer for the following page. (Default)
+![screenshot 1](https://addons.cdn.mozilla.net/user-media/previews/full/146/146520.png?modified=1416042662)
 
-It has a quick toggle mode using the right mouse button or you can use the left
-mouse button to bring up a menu and select the referer that way.
+![screenshot 2](https://addons.cdn.mozilla.net/user-media/previews/full/146/146524.png?modified=1416042662)
 
-The icon changes based on the current referer.
+![screenshot 3](https://addons.cdn.mozilla.net/user-media/previews/full/146/146526.png?modified=1416042662)
 
-Referer 0 == red
+![screenshot 4](https://addons.cdn.mozilla.net/user-media/previews/full/146/146522.png?modified=1416042662)
 
-Referer 1 == yellow
 
-Referer 2 == green
+# Features 
+
+Set the referer header to 3 states
+
+* Referer 0: Never send the Referer header or set document.referrer (red icon)
+
+* Referer 1: Send the Referer header when clicking on a link, and set
+document.referrer for the following page. (yellow icon)
+
+* Referer 2: Send the Referer header when clicking on a link or loading an image,
+and set document.referrer for the following page. (Default) (green icon)
+
+* A quick toggle mode is available using the right mouse button on the toolbar icon.
+
+* A contenxt menu entry can also be used to select the referer setting.
+
 
 # Icons #
 
